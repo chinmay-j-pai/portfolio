@@ -101,6 +101,17 @@ hr{
     width: 25%;
 }
 
+.topic-left{
+    float: left;
+}
+
+.topic-right{
+    float:left;
+}
+
+.space{
+    height: 2rem;
+}
 .badminton{
     float: right;
     margin-left: 30px;
