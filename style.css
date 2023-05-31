@@ -38,7 +38,7 @@ a{
     text-decoration: none;
 }
 a:hover{
-    color: #EAF6F6;
+    color: orange;
     
 }
 
@@ -117,6 +117,14 @@ hr{
     margin-left: 30px;
     width: 25%;
 }
+.projects{
+    line-height: 2;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+    width: 50%;
+}
 
 .btn {
     background:  #11cdd4;
@@ -155,6 +163,7 @@ hr{
     background-color: #66BFBF;
     font-family: 'Montserrat',serif;
     padding: 30px;
+    font-weight: bolder;
 
 }
 
